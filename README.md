@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Panja004 (Anish Panja)
-- 👀 I’m interested in full-stack web development, open source projects, and solving real-world problems with tech.
-- 🌱 I’m currently learning advanced system design, DSA for placements, and building projects with Next.js and MongoDB.
-- 💞️ I’m looking to collaborate on impactful open-source projects, productivity tools, and internship opportunities.
-- 📫 How to reach me: anishpanja1999@gmail.com | [LinkedIn](https://www.linkedin.com/in/anishpanja/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love creating digital tools that simplify life — and I have a knack for turning late-night project ideas into reality!
+# 👋 Hi, I’m Anish Panja (@Panja004)
+
+- 💻 I'm a Full-Stack Developer (MERN) and 4th-year B.Tech IT student at Heritage Institute of Technology, Kolkata.
+- 🔬 Currently interning at **IIT Bhubaneswar** (ML & LLMs) and **Athrv Cloud Pvt. Ltd.** (C/C++ Static Analysis & Unit Test Generation).
+- 🌱 Learning: System Design, DSA for placements, and building projects with Next.js, MongoDB, and LLM integrations.
+- 🤝 Open to collaborations on impactful projects, dev tools, and open-source contributions.
+- 📫 Reach me at: anishpanja1999@gmail.com | [LinkedIn](https://www.linkedin.com/in/anishpanja/)
+- ⚡ Fun fact: I turn late-night tech ideas into real projects that simplify everyday life.
 
 <!---
 Panja004/Panja004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
